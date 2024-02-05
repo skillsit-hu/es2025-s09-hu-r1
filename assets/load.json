@@ -1,0 +1,298 @@
+[
+  {
+    "id": "XIQO1322541",
+    "blockId": 3,
+    "bayNum": 5,
+    "stackNum": 3,
+    "tierNum": 3,
+    "arrivedAt": "2024-01-13T00:00:00.000Z"
+  },
+  {
+    "id": "WMCQ2222857",
+    "blockId": 4,
+    "bayNum": 4,
+    "stackNum": 5,
+    "tierNum": 3,
+    "arrivedAt": "2024-01-13T00:00:00.000Z"
+  },
+  {
+    "id": "ZBQU8886437",
+    "blockId": 4,
+    "bayNum": 3,
+    "stackNum": 2,
+    "tierNum": 3,
+    "arrivedAt": "2024-01-13T00:00:00.000Z"
+  },
+  {
+    "id": "UBNQ4149244",
+    "blockId": 2,
+    "bayNum": 2,
+    "stackNum": 4,
+    "tierNum": 3,
+    "arrivedAt": "2024-01-13T00:00:00.000Z"
+  },
+  {
+    "id": "SNHW5603409",
+    "blockId": 3,
+    "bayNum": 5,
+    "stackNum": 2,
+    "tierNum": 3,
+    "arrivedAt": "2024-01-13T00:00:00.000Z"
+  },
+  {
+    "id": "OZFD7284125",
+    "blockId": 1,
+    "bayNum": 3,
+    "stackNum": 4,
+    "tierNum": 3,
+    "arrivedAt": "2024-01-13T00:00:00.000Z"
+  },
+  {
+    "id": "HWVB8740521",
+    "blockId": 4,
+    "bayNum": 4,
+    "stackNum": 2,
+    "tierNum": 3,
+    "arrivedAt": "2024-01-14T00:00:00.000Z"
+  },
+  {
+    "id": "UPAF8897438",
+    "blockId": 3,
+    "bayNum": 3,
+    "stackNum": 4,
+    "tierNum": 3,
+    "arrivedAt": "2024-01-14T00:00:00.000Z"
+  },
+  {
+    "id": "QXKP7979739",
+    "blockId": 3,
+    "bayNum": 5,
+    "stackNum": 4,
+    "tierNum": 3,
+    "arrivedAt": "2024-01-14T00:00:00.000Z"
+  },
+  {
+    "id": "NPZF9494742",
+    "blockId": 4,
+    "bayNum": 3,
+    "stackNum": 4,
+    "tierNum": 3,
+    "arrivedAt": "2024-01-14T00:00:00.000Z"
+  },
+  {
+    "id": "XHYL8268894",
+    "blockId": 1,
+    "bayNum": 5,
+    "stackNum": 2,
+    "tierNum": 3,
+    "arrivedAt": "2024-01-14T00:00:00.000Z"
+  },
+  {
+    "id": "XMQG1014568",
+    "blockId": 4,
+    "bayNum": 4,
+    "stackNum": 4,
+    "tierNum": 3,
+    "arrivedAt": "2024-01-14T00:00:00.000Z"
+  },
+  {
+    "id": "KTKZ3092209",
+    "blockId": 1,
+    "bayNum": 4,
+    "stackNum": 3,
+    "tierNum": 3,
+    "arrivedAt": "2024-01-14T00:00:00.000Z"
+  },
+  {
+    "id": "XIFI4157721",
+    "blockId": 4,
+    "bayNum": 4,
+    "stackNum": 3,
+    "tierNum": 3,
+    "arrivedAt": "2024-01-15T00:00:00.000Z"
+  },
+  {
+    "id": "ZOBN4846482",
+    "blockId": 1,
+    "bayNum": 5,
+    "stackNum": 3,
+    "tierNum": 3,
+    "arrivedAt": "2024-01-15T00:00:00.000Z"
+  },
+  {
+    "id": "YMVS2497022",
+    "blockId": 2,
+    "bayNum": 4,
+    "stackNum": 2,
+    "tierNum": 3,
+    "arrivedAt": "2024-01-15T00:00:00.000Z"
+  },
+  {
+    "id": "SNAZ6386446",
+    "blockId": 4,
+    "bayNum": 4,
+    "stackNum": 4,
+    "tierNum": 4,
+    "arrivedAt": "2024-01-16T00:00:00.000Z"
+  },
+  {
+    "id": "PWWW7404723",
+    "blockId": 3,
+    "bayNum": 3,
+    "stackNum": 4,
+    "tierNum": 4,
+    "arrivedAt": "2024-01-17T00:00:00.000Z"
+  },
+  {
+    "id": "UOLQ9694006",
+    "blockId": 3,
+    "bayNum": 5,
+    "stackNum": 3,
+    "tierNum": 4,
+    "arrivedAt": "2024-01-17T00:00:00.000Z"
+  },
+  {
+    "id": "COJW8239287",
+    "blockId": 1,
+    "bayNum": 5,
+    "stackNum": 3,
+    "tierNum": 4,
+    "arrivedAt": "2024-01-17T00:00:00.000Z"
+  },
+  {
+    "id": "FHDV1882683",
+    "blockId": 4,
+    "bayNum": 5,
+    "stackNum": 4,
+    "tierNum": 4,
+    "arrivedAt": "2024-01-17T00:00:00.000Z"
+  },
+  {
+    "id": "PTPF9437203",
+    "blockId": 2,
+    "bayNum": 4,
+    "stackNum": 4,
+    "tierNum": 4,
+    "arrivedAt": "2024-01-18T00:00:00.000Z"
+  },
+  {
+    "id": "TOTH8811278",
+    "blockId": 1,
+    "bayNum": 4,
+    "stackNum": 3,
+    "tierNum": 4,
+    "arrivedAt": "2024-01-18T00:00:00.000Z"
+  },
+  {
+    "id": "BAXH1725439",
+    "blockId": 1,
+    "bayNum": 1,
+    "stackNum": 3,
+    "tierNum": 4,
+    "arrivedAt": "2024-01-19T00:00:00.000Z"
+  },
+  {
+    "id": "GRGU1212552",
+    "blockId": 3,
+    "bayNum": 1,
+    "stackNum": 3,
+    "tierNum": 4,
+    "arrivedAt": "2024-01-19T00:00:00.000Z"
+  },
+  {
+    "id": "FLPV8276813",
+    "blockId": 4,
+    "bayNum": 1,
+    "stackNum": 4,
+    "tierNum": 4,
+    "arrivedAt": "2024-01-20T00:00:00.000Z"
+  },
+  {
+    "id": "NZFH9959909",
+    "blockId": 4,
+    "bayNum": 4,
+    "stackNum": 2,
+    "tierNum": 4,
+    "arrivedAt": "2024-01-20T00:00:00.000Z"
+  },
+  {
+    "id": "JKDT2198287",
+    "blockId": 2,
+    "bayNum": 2,
+    "stackNum": 4,
+    "tierNum": 4,
+    "arrivedAt": "2024-01-20T00:00:00.000Z"
+  },
+  {
+    "id": "CFWY4364557",
+    "blockId": 1,
+    "bayNum": 5,
+    "stackNum": 2,
+    "tierNum": 4,
+    "arrivedAt": "2024-01-20T00:00:00.000Z"
+  },
+  {
+    "id": "VFFG5109433",
+    "blockId": 2,
+    "bayNum": 4,
+    "stackNum": 4,
+    "tierNum": 5,
+    "arrivedAt": "2024-01-21T00:00:00.000Z"
+  },
+  {
+    "id": "XTSC5776971",
+    "blockId": 2,
+    "bayNum": 2,
+    "stackNum": 4,
+    "tierNum": 5,
+    "arrivedAt": "2024-01-24T00:00:00.000Z"
+  },
+  {
+    "id": "BZCP4528947",
+    "blockId": 4,
+    "bayNum": 4,
+    "stackNum": 4,
+    "tierNum": 5,
+    "arrivedAt": "2024-01-25T00:00:00.000Z"
+  },
+  {
+    "id": "BTOO9287979",
+    "blockId": 4,
+    "bayNum": 1,
+    "stackNum": 4,
+    "tierNum": 1,
+    "arrivedAt": "2024-01-05T00:00:00.000Z"
+  },
+  {
+    "id": "KHTQ4797199",
+    "blockId": 2,
+    "bayNum": 4,
+    "stackNum": 4,
+    "tierNum": 3,
+    "arrivedAt": "2024-01-13T00:00:00.000Z"
+  },
+  {
+    "id": "YHQI0151589",
+    "blockId": 2,
+    "bayNum": 3,
+    "stackNum": 2,
+    "tierNum": 1,
+    "arrivedAt": "2024-01-06T00:00:00.000Z"
+  },
+  {
+    "id": "UEKP3858709",
+    "blockId": 3,
+    "bayNum": 2,
+    "stackNum": 4,
+    "tierNum": 1,
+    "arrivedAt": "2024-01-06T00:00:00.000Z"
+  },
+  {
+    "id": "CRDO5901359",
+    "blockId": 4,
+    "bayNum": 1,
+    "stackNum": 4,
+    "tierNum": 2,
+    "arrivedAt": "2024-01-11T00:00:00.000Z"
+  }
+]
