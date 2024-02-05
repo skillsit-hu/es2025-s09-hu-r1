@@ -19,6 +19,8 @@ Your task is divided into three parts.
 
 3. In the third part, you will develop a searchable list for containers.
 
+Details in the [WS2025_HU_TP_S09_R1_EN.pdf](https://github.com/skillsit-hu/es2025-s09-hu-r1/assets/WS2025_HU_TP_S09_R1_EN.pdf)
+
 # How to submit your work
 
 1. You have to share your work in a private GitHub repo as described in the README file of the test project GitHub repo (https://github.com/skillsit-hu/es2025-s09-hu-r1).
