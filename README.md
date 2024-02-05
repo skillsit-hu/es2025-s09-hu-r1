@@ -19,7 +19,10 @@ Your task is divided into three parts.
 
 3. In the third part, you will develop a searchable list for containers.
 
-Details in the [WS2025_HU_TP_S09_R1_EN.pdf](https://github.com/skillsit-hu/es2025-s09-hu-r1/blob/main/assets/WS2025_HU_TP_S09_R1_EN.pdf)
+# Assets
+
+- [Detailed description of the project in WS2025_HU_TP_S09_R1_EN.pdf](https://github.com/skillsit-hu/es2025-s09-hu-r1/blob/main/assets/WS2025_HU_TP_S09_R1_EN.pdf)
+- [Download files from assets/ directory](https://github.com/skillsit-hu/es2025-s09-hu-r1/tree/main/assets)
 
 # How to submit your work
 
