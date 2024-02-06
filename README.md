@@ -26,6 +26,6 @@ Your task is divided into three parts.
 
 # How to submit your work
 
-1. To submit your work, you will need to share a GitHub repository (hereafter referred to as repo) containing the source code of your solution. We prefer that executable files or built solution are included in your repo too. If you have not used GitHub before, you can register an account at https://github.com and then create a private repo as es2025-s09-r1-YYY, where YYY is the three-digit number we have emailed you. You then need to share the repo containing your solution with us. To do this, use our GitHub id `skillsithu`.
+1. To submit your work, you will need to share a GitHub repository (hereafter referred to as repo) containing the source code of your solution. We prefer that executable files or built solution are included in your repo too. If you have not used GitHub before, you can register an account at https://github.com and then create a private repo as `es2025-s09-r1-YYY`, where `YYY` is the three-digit number we have emailed you. You then need to share the repo containing your solution with us. To do this, use our GitHub id `skillsithu`.
 2. Just in case, send the link of your repo to es2025s09@skillsit.hu.
 4. Your README file has to contain the instructions how to start your project backend and frontend.
