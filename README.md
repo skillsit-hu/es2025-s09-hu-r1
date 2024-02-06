@@ -26,8 +26,6 @@ Your task is divided into three parts.
 
 # How to submit your work
 
-1. You have to share your work in a private GitHub repo as described in the README file of the test project GitHub repo (https://github.com/skillsit-hu/es2025-s09-hu-r1).
-
+1. To submit your assignment, you will need to share a GitHub repository (hereafter referred to as repo) containing the source code of your solution. YY is the two-digit personal code that we have emailed to you. If you have not used GitHub before, you can register an account at https://github.com and then create a private repo as es2025-s09-r1-YYY, where YYY is the three-digit serial number we have emailed you. You then need to share the repo containing your solution with us. To do this, use our GitHub id `skillsithu`.
 2. Share a link with us in email (es2025s09@skillsit.hu) from where we can download the executable files and code to test your solutions.
-
 3. Your README file has to contain the instructions how to start your project backend and frontend. We prefer to give executable files or a built solution.
